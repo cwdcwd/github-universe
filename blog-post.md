@@ -18,6 +18,7 @@
 
 
 ### Electron apps!
+Electon is the awesome node.js-based framework for building out cross-platform desktop apps. Wicked fast and super powerful, you can use a variety of standard JS/CSS techniques inside your Electron apps. But what if you wanted to do more than the usual stuff? [Machisté Quintana](https://twitter.com/mnquintana) of Slack gave a great presentation about `electron-compile` entitled _Making Electron Development Simpler, More Pleasant, and More Productive_. `electron-compile` is an awesome tool they developed to enable usage of just about anything inside your Electron app's build process. 
 
 ### GraphQL
 This is by far my favourite topic from the event. GraphQL is a brand new way of thinking around data querying and manipulation. The core concept being that we should have less rigid RESTful interfaces and datamodels and instead focus more on thinking about the "graph" of information as it aligns to the products we're building. 
