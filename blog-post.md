@@ -13,13 +13,13 @@ Github Universe is an awesome event, hosted by Github, to showcase and celebrate
   + GraphQL
   + Some git tips & tricks
 - Some other interesting things
-  + Code.gov
+  + [Code.gov](http://www.code.gov)
   + [Operation Code](https://operationcode.org/)
   + Investing in Future of Developers
 
 ### Platform enhancements
 - Code reviews on Pull Requests are an awesome new feature of the Github platform. You can now gate acceptance of PRs based on code reviews and have an interactive conversation with submitters. Another tool in the tool box for quality and flow control on your projects. Awesome stuff.
-- Projects Kanban now available inside Github repos. Hot on the heals of [Gitlab's](www.gitlab.com) [issue board announcement](https://about.gitlab.com/2016/08/22/announcing-the-gitlab-issue-board/) is [Github Project Boards](https://help.github.com/articles/tracking-the-progress-of-your-work-with-projects/), a very nice [project kanban](https://en.wikipedia.org/wiki/Kanban_board) for tracking progress. 
+- Projects Kanban now available inside Github repos. Hot on the heals of [Gitlab's](http://www.gitlab.com) [issue board announcement](https://about.gitlab.com/2016/08/22/announcing-the-gitlab-issue-board/) is [Github Project Boards](https://help.github.com/articles/tracking-the-progress-of-your-work-with-projects/), a very nice [project kanban](https://en.wikipedia.org/wiki/Kanban_board) for tracking progress. 
 
 ### The Breakout sessions
 
@@ -58,17 +58,18 @@ To me, one of the greatest things about git is that there's always something to 
 ### Some other interesting things
 
 #### Code.gov
-The US Goverment has announced ... stuff //TODO insert blurb here
+The US Federal Goverment has announced a [policy](https://sourcecode.cio.gov/) for government use of source code. Traditionally a slow-shifting leviathan, the Government has awoken to the importance of software and the impacts and costs of IP on its production and usage. Their aim is to promote open source code reuse within government agencies in order to stop "reinventing the wheel". An inteteresting and admirable goal but I think [this portion](https://sourcecode.cio.gov/Exceptions/) might become an oft-abused loop hole.
 ![code.gov](https://github.com/cwdcwd/github-universe/raw/master/images/2016-09-14_174551225_152BA_iOS.jpg)
 
 #### Operation Code
-[Operation Code](https://operationcode.org/) is a great non-profit designed to help military veterans get trained in software development. OC provides the infrastructure for match-making technical volunteers with Vets for education and training in the software space. Great stuff.
+[Operation Code](https://operationcode.org/) is a great non-profit designed to help military veterans get trained in software development. OC provides the infrastructure for match-making technical volunteers with Vets for education and training in the software space. Great stuff all around.
 
 #### Investing in Future of Developers
-Much of the keynotes spoke about the future the software, and tech industry in general, and how we're likley facing a labour gap in the space. //TODO insert slide shot here
+Much of the keynotes spoke about the future the software, and tech industry in general, and how we're likley facing a labour gap in the space. They spoke of many for-profit and non-profit initiatives that are dedicated to addressing this shortage. 
 ![future](https://github.com/cwdcwd/github-universe/raw/master/images/2016-09-15_170819382_3A36D_iOS.jpg)
 
 
 ### Conclusion
+The Github Universe event was a great experience. The open source community is alive, thriving and growing. The imporantance of software has reached deeply into all industries and aspected of our economy and governement. Github is a driving factor in all this and the "Universe" that it has created is impactful beyond just technology on social, economic and political levels.
 
 ![octokat](https://raw.githubusercontent.com/cwdcwd/github-universe/master/images/2016-09-15_180253690_E637B_iOS.jpg)
