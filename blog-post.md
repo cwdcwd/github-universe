@@ -2,7 +2,7 @@
 
 # What was it?
 Github Universe is an awesome event, hosted by Github, to showcase and celebrate Github, the Github ecosystem, and software development (both open and closed) in general. 
-[!universe](https://raw.githubusercontent.com/cwdcwd/github-universe/master/images/2016-09-14_170909840_FEE30_iOS.jpg)
+![universe](https://raw.githubusercontent.com/cwdcwd/github-universe/master/images/2016-09-14_170909840_FEE30_iOS.jpg)
 
 ## Some amazing developments
 - Platform enhancements:
@@ -29,7 +29,7 @@ Electon is the awesome node.js-based framework for building out cross-platform d
 #### GraphQL
 This is by far my favourite topic from the event. GraphQL is a brand new way of thinking around data querying and manipulation. The core concept being that we should have less rigid RESTful interfaces and datamodels and instead focus more on thinking about the "graph" of information as it aligns to the products we're building. 
 //TODO insert https://graphqlbaer-test.herokuapp.com/graphQL with more fleshed out schema
-[!graphQL](https://raw.githubusercontent.com/cwdcwd/github-universe/master/images/2016-09-14_180044366_9F29B_iOS.jpg)
+![graphQL](https://raw.githubusercontent.com/cwdcwd/github-universe/master/images/2016-09-14_180044366_9F29B_iOS.jpg)
 
 #### Tips & Tricks!
 To me, one of the greatest things about git is that there's always something to learn. A new techinque, a flow pattern, or even just a simple CLI flag that I had _no_ idea about but changes the game for me on a day to day basis. Here's a couple I thought I should share:
@@ -59,16 +59,16 @@ To me, one of the greatest things about git is that there's always something to 
 
 #### Code.gov
 The US Goverment has announced ... stuff //TODO insert blurb here
-[!code.gov](https://github.com/cwdcwd/github-universe/raw/master/images/2016-09-14_174551225_152BA_iOS.jpg)
+![code.gov](https://github.com/cwdcwd/github-universe/raw/master/images/2016-09-14_174551225_152BA_iOS.jpg)
 
 #### Operation Code
 [Operation Code](https://operationcode.org/) is a great non-profit designed to help military veterans get trained in software development. OC provides the infrastructure for match-making technical volunteers with Vets for education and training in the software space. Great stuff.
 
 #### Investing in Future of Developers
 Much of the keynotes spoke about the future the software, and tech industry in general, and how we're likley facing a labour gap in the space. //TODO insert slide shot here
-[!future](https://github.com/cwdcwd/github-universe/raw/master/images/2016-09-15_170819382_3A36D_iOS.jpg)
+![future](https://github.com/cwdcwd/github-universe/raw/master/images/2016-09-15_170819382_3A36D_iOS.jpg)
 
 
 ### Conclusion
 
-[!octokat](https://raw.githubusercontent.com/cwdcwd/github-universe/master/images/2016-09-15_180253690_E637B_iOS.jpg)
+![octokat](https://raw.githubusercontent.com/cwdcwd/github-universe/master/images/2016-09-15_180253690_E637B_iOS.jpg)
