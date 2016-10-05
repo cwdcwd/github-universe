@@ -71,6 +71,6 @@ Much of the keynotes spoke about the future the software, and tech industry in g
 
 
 ### Conclusion
-The Github Universe event was a great experience. The open source community is alive, thriving and growing. The imporantance of software has reached deeply into all industries and aspected of our economy and governement. Github is a driving factor in all this and the "Universe" that it has created is impactful beyond just technology on social, economic and political levels.
+The Github Universe event was a great experience. The open source community is alive, thriving and growing. The imporantance of software has reached deeply into all industries and aspects of our economy and government. Github is a driving factor in all this and the "Universe" that it has created is impactful beyond just technology on social, economic and political levels.
 
 ![octokat](https://raw.githubusercontent.com/cwdcwd/github-universe/master/images/2016-09-15_180253690_E637B_iOS.jpg)
